@@ -1,4 +1,4 @@
-// Write a recursive function to calculate sum of first N odd natural numbers
+// 2. Write a recursive function to calculate sum of first N odd natural numbers
 #include <stdio.h>
 
 int sum(int);
@@ -21,3 +21,5 @@ int sum(int n)
      s = 0 + sum(n - 1);
     return s;
 }
+
+//2n-1

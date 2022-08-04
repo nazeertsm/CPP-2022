@@ -1,0 +1,1 @@
+//3. Write a recursive function to calculate sum of first N even natural numbers (2*n+sum(n-1))
